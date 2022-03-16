@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laura Arcidiacono</h1>
-<h3 align="center">A passionate Full Stack developer living in Madrid</h3>
+<h3 align="center">A passionate Junior Full Stack developer who lives in Madrid and seeks to learn every day.</h3>
 
 - 📫 How to reach me **mlaura.arcidiacono@gmail.com**
 
