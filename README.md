@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laura Arcidiacono</h1>
 <h3 align="center">A passionate Full Stack developer living in Madrid</h3>
 
-- 🔭 I’m currently working on **DI of Softonic**
+- 🔭 I’m currently working on **DINS of Softonic**
 
 - 🌱 I’m currently learning **Docker, Kubernetes, RxJS, y más!**
 
