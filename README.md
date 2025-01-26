@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **RevAmp of Softonic**
 
-- 🌱 I’m currently learning **Docker, Kubernetes, RxJS, PHP, Laravel Nova y más!**
+- 🌱 I’m currently working with **Docker, Kubernetes, RxJS, PHP, Laravel Nova y más!**
 
 - 📫 How to reach me **mlaura.arcidiacono@gmail.com**
 
